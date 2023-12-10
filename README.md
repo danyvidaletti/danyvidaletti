@@ -1,11 +1,9 @@
-Hello, World! I am Dany, a passionate software engineering student 👋🏻
+Hello, World! I am Dany 👋🏻
 
 ## About Me
 
 - 🎓 Currently enhancing my programming skills by completing self-paced online courses on Coursera, focusing on iOS development.
 - 💼 Actively seeking apprenticeships/internship opportunities
-- 🌐 [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile/)
-- 📧 Email: your.email@example.com
 
 ## Skills
 
