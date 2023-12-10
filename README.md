@@ -30,14 +30,3 @@ Feel free to reach out if you have any questions, opportunities, or just want to
 
 - 🌐 [LinkedIn]([https://www.linkedin.com/in/dapvidaletti-/])
 - 📧 Email: dapvidaletti@gmail.com
-
-## Acknowledgments
-
-Thank you for visiting my GitHub repository! If you find my projects interesting, don't hesitate to star them or provide feedback. Your support is highly appreciated!
-
-
-
-<!---
-danyvidaletti/danyvidaletti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
