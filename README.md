@@ -1,4 +1,4 @@
-Hello, World! I am Dany, a passionate software engineering student, eager to learn and contribute to the world of iOS app development using SwiftUI.
+Hello, World! I am Dany, a passionate software engineering student 👋🏻
 
 ## About Me
 
