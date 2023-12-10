@@ -28,5 +28,5 @@ Hello, World! I am Dany 👋🏻
 
 Feel free to reach out if you have any questions, opportunities, or just want to connect. I'm always open to learning and collaborating!
 
-- 🌐 [LinkedIn]([https://www.linkedin.com/in/dapvidaletti-/])
-- 📧 [Email] ([dapvidaletti@gmail.com])
+- 🌐 [LinkedIn](https://www.linkedin.com/in/dapvidaletti-/)
+- 📧 [Email] (your.email@example.com)
