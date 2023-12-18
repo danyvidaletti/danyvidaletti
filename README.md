@@ -30,3 +30,5 @@ Feel free to reach out if you have any questions, opportunities, or just want to
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/dapvidaletti-/)
 - 📧 E-mail: dapvidaletti@gmail.com
+- LeetCode: https://leetcode.com/danyvidaletti/
+  
