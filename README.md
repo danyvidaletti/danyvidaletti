@@ -2,18 +2,22 @@ Hello, World! I am Dany 👋🏻
 
 ## About Me
 
-- 🎓 Currently enhancing my programming skills by completing self-paced online courses on Coursera, focusing on iOS development.
+- 🎓 Currently enhancing my programming skills by completing self-paced online courses on Coursera, focusing on Front-End development.
 - 💼 Actively seeking apprenticeships/internship opportunities
 
 ## Skills
 
-- **Languages:** Swift, SwiftUI
+- **Languages:** HTML, CSS, JavaScript, SwiftUI
 - **Frameworks:** Combine
 - **Version Control:** Git, GitHub
-- **Tools:** Xcode
+- **Tools:** VSCode, Xcode
 
-## Courses 
+## Courses
 
+- Alura - HTML and CSS: Classes, positioning and Flexbox (2024)
+- Alura - HTML and CSS: development environments, file structure and tags (2024)
+- Alura - Techniques for your Self-Development (2023)
+- Alura - Swift: Understanding the Programming Language (2023)
 - LinkedIn - Agile: It’s not just for Software (2023)
 - LinkedIn - Critical Thinking and Problem-Solving (2023)
 - LinkedIn - Programming Foundations: Fundamentals (2023)
@@ -28,7 +32,7 @@ Hello, World! I am Dany 👋🏻
 
 Feel free to reach out if you have any questions, opportunities, or just want to connect. I'm always open to learning and collaborating!
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/dapvidaletti-/)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/danyvidaletti/)
 - 📧 E-mail: dapvidaletti@gmail.com
 - LeetCode: https://leetcode.com/danyvidaletti/
   
