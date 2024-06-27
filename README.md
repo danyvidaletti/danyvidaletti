@@ -30,9 +30,8 @@ Hello, World! I am Dany 👋🏻
 
 ## How to Reach Me
 
-Feel free to reach out if you have any questions, opportunities, or just want to connect. I'm always open to learning and collaborating!
+Feel free to reach out if you have any questions, or opportunities, or just want to connect. I'm always open to learning and collaborating!
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/danyvidaletti/)
 - 📧 E-mail: dapvidaletti@gmail.com
-- LeetCode: https://leetcode.com/danyvidaletti/
   
