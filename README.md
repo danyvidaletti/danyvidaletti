@@ -2,13 +2,12 @@ Hello, World! I am Dany 👋🏻
 
 ## About Me
 
-- 🎓 Currently enhancing my programming skills by completing self-paced online courses on Coursera, focusing on Front-End development.
-- 💼 Actively seeking apprenticeships/internship opportunities
+- 🎓 Software Development Student at Liberties College.
+- 💼 Intern at Linkedin EMEA
 
 ## Skills
 
-- **Languages:** HTML, CSS, JavaScript, SwiftUI
-- **Frameworks:** Combine
+- **Languages:** HTML, CSS, JavaScript, C#, SwiftUI
 - **Version Control:** Git, GitHub
 - **Tools:** VSCode, Xcode
 
