@@ -2,7 +2,7 @@ Hello, World! I am Dany 👋🏻
 
 ## About Me
 
-- 🎓 Software Development Student at Liberties College.
+- 🎓 Software Development Student at Liberties College
 - 💼 Intern at Linkedin EMEA
 
 ## Skills
