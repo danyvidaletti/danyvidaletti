@@ -7,9 +7,9 @@ Hello, World! I am Dany 👋🏻
 
 ## Skills
 
-- **Languages:** HTML, CSS, JavaScript, C#, SwiftUI
+- **Languages:** HTML, CSS, JavaScript, SwiftUI, Python
 - **Version Control:** Git, GitHub
-- **Tools:** VSCode, Xcode
+- **Tools:** VSCode
 
 ## Courses
 
