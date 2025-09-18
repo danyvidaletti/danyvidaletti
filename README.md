@@ -3,8 +3,10 @@ Hello, World! I am Dany 👋🏻
 ## About Me
 
 - 🎓 Data Analysis Student at Atlantic Technological University
-- 🎓 Software Development Degree at Liberties College
-- 💼 Systems Engineer at Linkedin EMEA
+- 🎓 Software Development Graduate – Liberties College
+- 🎓 Postgraduate Degree in Digital Law - FMP 
+- 🎓 Bachelor’s Degree in Law - FMP 
+- 💼 Systems Engineer at LinkedIn 
 
 ## Skills
 
