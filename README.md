@@ -2,14 +2,15 @@ Hello, World! I am Dany 👋🏻
 
 ## About Me
 
-- 🎓 Software Development Student at Liberties College
-- 💼 Enterprise Technical Systems Engineer at Linkedin EMEA
+- 🎓 Data Analysis Student at Atlantic Technological University
+- 🎓 Software Development Degree at Liberties College
+- 💼 Systems Engineer at Linkedin EMEA
 
 ## Skills
 
-- **Languages:** HTML, CSS, JavaScript, SwiftUI, Python
+- **Languages:** Python, SQL
 - **Version Control:** Git, GitHub
-- **Tools:** VSCode
+- **Tools:** VSCode, Pycharm, Jupyter Notebook 
 
 ## Courses
 
