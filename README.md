@@ -15,27 +15,27 @@ Currently working in analytics at LinkedIn, supporting Go-To-Market reporting an
 ## Technical Skills
 
 - **Languages & Data Tools:**
-Python (pandas, matplotlib)
-SQL
+- Python (pandas, matplotlib)
+- SQL
 
 - **Analytics & Reporting:**
-Data cleaning and transformation
-Exploratory data analysis
-Reporting automation
-KPI development
-Business requirement translation
+- Data cleaning and transformation
+- Exploratory data analysis
+- Reporting automation
+- KPI development
+- Business requirement translation
 
 - **Tools:**
-Git & GitHub
-Jupyter Notebook
-Google Colab
-VS Code
-PyCharm
+- Git & GitHub
+- Jupyter Notebook
+- Google Colab
+- VSCode
+- PyCharm
 
 ## Certifications
-Microsoft Azure AZ-900
-Microsoft Power Platform PL-900
-Python Institute PCAP 31-02
+- Microsoft Azure AZ-900
+- Microsoft Power Platform PL-900
+- Python Institute PCAP 31-02
 
 Let's Connect! Open to collaboration, analytics projects, and data-focused opportunities.
 
