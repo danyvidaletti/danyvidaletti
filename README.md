@@ -37,8 +37,7 @@ Microsoft Azure AZ-900
 Microsoft Power Platform PL-900
 Python Institute PCAP 31-02
 
-## Let's Connect
-Open to collaboration, analytics projects, and data-focused opportunities.
+Let's Connect! Open to collaboration, analytics projects, and data-focused opportunities.
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/danyvidaletti/)
 - 📧 E-mail: dapvidaletti@gmail.com
