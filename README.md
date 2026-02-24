@@ -1,38 +1,44 @@
-Hello, World! I am Dany 👋🏻
+Hello, World! I'm Dany 👋
+
+Data Analyst with experience in SQL and Python, delivering business-facing analytics solutions within enterprise environments. I specialise in translating complex business requirements into structured, governance-aware data solutions, with a strong focus on reporting automation, stakeholder collaboration, and operational insights.
+
+Currently working in analytics at LinkedIn, supporting Go-To-Market reporting and data-driven decision-making.
 
 ## About Me
 
-- 🎓 Data Analysis Student at Atlantic Technological University
-- 🎓 Software Development Graduate – Liberties College
-- 🎓 Postgraduate Degree in Digital Law - FMP 
-- 🎓 Bachelor’s Degree in Law - FMP 
-- 💼 Systems Engineer at LinkedIn 
+- 🎓 Diploma in Data Analytics - Atlantic Technological University (2025-2026)
+- 🎓 Diploma in Software Development - First Class Honours
+- 🎓 Postgraduate Diploma in Compliance - First Class Honours
+- 🎓 Bachelor of Laws (LLB) - First Class Honours
+- 💼 Data / Business Analyst at LinkedIn, Dublin 
 
-## Skills
+## Technical Skills
 
-- **Languages:** Python, SQL
-- **Version Control:** Git, GitHub
-- **Tools:** VSCode, Pycharm, Jupyter Notebook 
+- **Languages & Data Tools:**
+Python (pandas, matplotlib)
+SQL
 
-## Courses
+- **Analytics & Reporting:**
+Data cleaning and transformation
+Exploratory data analysis
+Reporting automation
+KPI development
+Business requirement translation
 
-- Alura - HTML and CSS: Classes, positioning and Flexbox (2024)
-- Alura - HTML and CSS: development environments, file structure and tags (2024)
-- Alura - Techniques for your Self-Development (2023)
-- Alura - Swift: Understanding the Programming Language (2023)
-- LinkedIn - Agile: It’s not just for Software (2023)
-- LinkedIn - Critical Thinking and Problem-Solving (2023)
-- LinkedIn - Programming Foundations: Fundamentals (2023)
-- LinkedIn - Programming Foundations: Beyond the Fundamentals (2023)
-- LinkedIn - Programming Foundations: Version Control with Git (2023)
-- LinkedIn - Strategic Thinking Tips to Solve Problems and Innovate (2023)
-- Coursera - Version Control (2023)
-- Coursera - Introduction to iOS Mobile Application Development (2023)
-- Coursera - Foundations of User Experience (UX) Design (2023)
+- **Tools:**
+Git & GitHub
+Jupyter Notebook
+Google Colab
+VS Code
+PyCharm
 
-## How to Reach Me
+## Certifications
+Microsoft Azure AZ-900
+Microsoft Power Platform PL-900
+Python Institute PCAP 31-02
 
-Feel free to reach out if you have any questions, or opportunities, or just want to connect. I'm always open to learning and collaborating!
+## Let's Connect
+Open to collaboration, analytics projects, and data-focused opportunities.
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/danyvidaletti/)
 - 📧 E-mail: dapvidaletti@gmail.com
