@@ -7,8 +7,8 @@ Currently working in analytics at LinkedIn, supporting Go-To-Market reporting an
 ---
 
 ## Tech Stack
-**Languages:** SQL, Python (pandas, matplotlib)  
-**Analytics:** Data cleaning, EDA, KPI design, reporting automation  
+**Languages:** SQL, Python (pandas, matplotlib, numpy)  
+**Analytics:** Data cleaning, EDA, ELT, KPI design, reporting automation  
 **Tools:** Git, GitHub, Jupyter, VSCode, PyCharm  
 
 ---
