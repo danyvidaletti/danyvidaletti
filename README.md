@@ -14,6 +14,7 @@ Currently working in analytics at LinkedIn, supporting Go-To-Market reporting an
 ---
 
 ## Background
+- Postgraduate Diploma in Machine Learning, AI (2026–2027) 
 - Diploma in Data Analytics (2025–2026)  
 - Diploma in Software Development – First Class Honours  
 - Postgraduate Diploma in Compliance – First Class Honours  
